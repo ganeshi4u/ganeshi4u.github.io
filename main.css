@@ -4,8 +4,8 @@ html {
 
 body {
   overflow: hidden;
-  background: #bcdee7 url("/img/bg.jpg") no-repeat center center fixed;
-  background-size: 120% auto;
+  background: #bcdee7 url("/img/bg.jpg");
+  background-size: cover;
   position: fixed;
   padding: 0px;
   margin: 0px;
